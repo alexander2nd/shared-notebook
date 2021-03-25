@@ -1,1 +1,5 @@
-numpy==1.14.5
+numpy==1.19.2
+pandas==1.2.3
+matplotlib==3.3.4
+seaborn==0.11.1
+jenkspy==0.2.0
