@@ -1,1 +1,16 @@
-,
+Sensor/Actuator, Data Type, Name, Address, Current Value, Time Elapsed
+Sensor,Bool,FACTORY I/O (Running),496,True,6.783351
+Sensor,Bool,FACTORY I/O (Paused),497,False,6.783351
+Sensor,Bool,FACTORY I/O (Reset),498,False,6.783351
+Sensor,Bool,Retroreflective Sensor 1,0,False,6.783351
+Sensor,Float,FACTORY I/O (Time Scale),240,1,6.783351
+Sensor,Int,Light Array Emitter 1 (Value),0,0,6.783351
+Actuator,Bool,FACTORY I/O (Run),496,True,6.783351
+Actuator,Bool,FACTORY I/O (Pause),497,False,6.783351
+Actuator,Bool,FACTORY I/O (Reset),498,False,6.783351
+Actuator,Bool,Roller Conveyor (6m) 1,1,True,6.783351
+Actuator,Bool,Roller Conveyor (6m) 2,0,True,6.783351
+Actuator,Bool,Curved Roller Conveyor 1 CCW,2,True,6.783351
+Actuator,Bool,Emitter 1 (Emit),3,True,6.783351
+Actuator,Bool,Remover 1 (Remove),4,True,6.783351
+Actuator,Int,FACTORY I/O (Camera Position),240,0,6.783351
